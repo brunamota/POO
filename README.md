@@ -23,6 +23,10 @@ Entrega Trabalho 4 - 15/07/2024
 
 Projeto de Prática - 18/07/2024
 
+## IDE utilizada na matéria
+
+https://netbeans.apache.org/front/main/index.html
+
 ## Sololearn
 
 - https://www.sololearn.com/pt/learn/courses/java-introduction
