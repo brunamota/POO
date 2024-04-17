@@ -32,14 +32,14 @@ Aula 15 - Relação entre objetos e classes – Threads Exemplo: uso do pacote g
 
 Aula 16 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de jogos
 
-Aula 17 - Aplicações WEB com Orientação a Objetos
+Aula 17 - Padrões de Projeto
 
-Aula 18 - Aplicações WEB com Orientação a Objetos
+Aula 18 - Padrões de Projeto
 
-Aula 19 - Aplicações WEB com Orientação a Objetos
+Aula 19 - Padrões de Projeto
 
-Aula 20 - Padrões de Projeto
+Aula 20 - Aplicações WEB com Orientação a Objetos
 
-Aula 21 - Padrões de Projeto
+Aula 21 - Aplicações WEB com Orientação a Objetos
 
-Aula 22 - Padrões de Projeto
+Aula 22 - Aplicações WEB com Orientação a Objetos
