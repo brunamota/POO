@@ -1,4 +1,5 @@
 ![cabecalhoGitAulas](https://github.com/brunamota/POO/assets/66503956/bf6b8291-366c-428f-b777-2c0cb005e8f9)
+![cabecalhoGitAulas](https://github.com/brunamota/POO/assets/66503956/64f060e7-791e-4362-8981-997c6d17dd9d)
 
 Aula 1 - Histórico, tecnologias, Características da Orientação a Objetos, Uso de ambientes integrados de desenvolvimento (IDE), Tipos de dados, estruturas de controle.
 
