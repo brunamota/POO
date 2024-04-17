@@ -31,7 +31,7 @@ Projeto de Prática - 18/07/2024
 ## Documentos da Disciplina
 
 
-![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/b8344b25-f1a8-418a-905c-9dc41d2a85d5) [Plano de Ensino POO - 01/2024](https://github.com/brunamota/POO/files/15017784/Plano.de.Ensino.POO.-.01_2024.pdf)
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/b8344b25-f1a8-418a-905c-9dc41d2a85d5) [Plano de Ensino](https://github.com/brunamota/POO/files/15017784/Plano.de.Ensino.POO.-.01_2024.pdf)
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Aulas](https://github.com/brunamota/POO/blob/main/Aulas.md)
 
