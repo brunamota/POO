@@ -29,7 +29,7 @@ Projeto de Prática - 18/07/2024
 - https://www.sololearn.com/pt/learn/courses/java-intermediate
 
 ## Documentos da Disciplina
-![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) Aulas
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Aulas](https://github.com/brunamota/POO/blob/main/Trabalhos.md)
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) Trabalhos
 
