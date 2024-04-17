@@ -30,7 +30,7 @@ Projeto de Prática - 18/07/2024
 
 ## Documentos da Disciplina
 
-![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) Aulas
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Aulas](https://github.com/brunamota/POO/blob/main/Aulas.md)
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Trabalhos](https://github.com/brunamota/POO/blob/main/Trabalhos.md)
 
