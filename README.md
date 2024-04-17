@@ -23,9 +23,10 @@ Entrega Trabalho 4 - 15/07/2024
 
 Projeto de Prática - 18/07/2024
 
-## IDE utilizada na matéria
+## Ferramentas utilizada na matéria
 
-https://netbeans.apache.org/front/main/index.html
+NetBeans - https://netbeans.apache.org/front/main/index.html
+Java - https://www.oracle.com/technetwork/java/javase/downloads
 
 ## Sololearn
 
