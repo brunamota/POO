@@ -4,7 +4,7 @@
 
 
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 2 - Introdução à Orientação à Objetos – Conceitos Gerais (Abstração, Classes, Objetos, Encapsulamento, Polimorfismo e Herança). Exercício 1 – Retângulo (https://github.com/brunamota/POO/blob/main/Aulas/Aula02.md)
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 2 - Introdução à Orientação à Objetos – Conceitos Gerais (Abstração, Classes, Objetos, Encapsulamento, Polimorfismo e Herança). Exercício 1 – Retângulo](https://github.com/brunamota/POO/blob/main/Aulas/Aula02.md)
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 3 - Introdução à Orientação à Objetos – Conceitos Gerais (Abstração, Classes, Objetos, Encapsulamento, Polimorfismo e Herança). Exercício 1 – Retângulo.
 
