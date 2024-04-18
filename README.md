@@ -32,6 +32,7 @@ Entrega da Trabalho 1 (Lista 1 + Kahoot) - 13/05/2024
 ## Sololearn
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) https://www.sololearn.com/pt/learn/courses/java-introduction
+
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) https://www.sololearn.com/pt/learn/courses/java-intermediate
 
 ## Documentos da Disciplina
