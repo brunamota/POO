@@ -13,7 +13,7 @@
 - Calcular o perimetro
 
 # Exercício 1 – Retângulo
-`` Java
+```
 package poligono;
 
 public class Principal {
@@ -43,5 +43,4 @@ public class Principal {
     }
     
 }
-
-``
+```
