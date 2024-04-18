@@ -12,8 +12,9 @@
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
-  - Área = base*altura
-- Calcular o Perimetro
+  - A = base*altura
+- Calcular o Perímetro
+  - P = (2*base)+(2*altura)
 
 # Exercício 1 – Retângulo
 - Classe Principal
