@@ -13,21 +13,21 @@ Quinta - 7h30 às 9h10 - LEC 03
 
 Entrega da Trabalho 1 (Lista 1 + Kahoot) - 13/05/2024
 
-Entrega Trabalho 2 - 03/06/2024
+- Entrega Trabalho 2 - 03/06/2024
 
-Projeto de Prática - 06/06/2024
+- Projeto de Prática - 06/06/2024
 
-Entrega Trabalho 3 - 20/06/2024
+- Entrega Trabalho 3 - 20/06/2024
 
-Entrega Trabalho 4 - 15/07/2024
+- Entrega Trabalho 4 - 15/07/2024
 
-Projeto de Prática - 18/07/2024
+- Projeto de Prática - 18/07/2024
 
 ## Ferramentas utilizada na matéria
 
-NetBeans - https://netbeans.apache.org/front/main/index.html
+- NetBeans - https://netbeans.apache.org/front/main/index.html
 
-Java - https://www.oracle.com/technetwork/java/javase/downloads
+- Java - https://www.oracle.com/technetwork/java/javase/downloads
 
 ## Sololearn
 
