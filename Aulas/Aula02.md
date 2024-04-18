@@ -12,7 +12,7 @@
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
-  - A = base*altura
+  - A = base * altura
 - Calcular o Perímetro
   - P = (2 * base) + (2 * altura)
 
