@@ -13,7 +13,7 @@
 - Calcular o perimetro
 
 # Exercício 1 – Retângulo
-Classe Principal
+- Classe Principal
 ```
 package poligono;
 
