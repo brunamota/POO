@@ -11,8 +11,7 @@
 
 ### O que pode ser feito com essas caracteristicas?
 
-- Calcular a Área
-    $Área = base*altura
+- Calcular a Área  $ Área = base*altura
   
 - Calcular o Perimetro
 
