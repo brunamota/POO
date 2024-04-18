@@ -12,6 +12,9 @@
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
+    $$
+      base*altura
+    $$
 - Calcular o Perimetro
 
 # Exercício 1 – Retângulo
