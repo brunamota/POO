@@ -14,7 +14,7 @@
 - Calcular a Área
   - A = base*altura
 - Calcular o Perímetro
-  - P = (2*base)+(2*altura)
+  - P = (2*base) + (2*altura)
 
 # Exercício 1 – Retângulo
 - Classe Principal
