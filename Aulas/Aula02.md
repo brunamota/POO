@@ -7,7 +7,7 @@
 - Ângulos: os ângulos internos medem 90°, cuja soma deve sempre dar 360°.
 - Diagonais: possui duas diagonais com a mesma medida. Elas se interceptam no ponto médio, ou seja, na metade de cada uma destas diagonais.
 
-![como-calcular-diagona-do-retangulo](https://github.com/brunamota/POO/assets/66503956/7ccf448c-5f52-4990-a88e-32d88ab75191)
+![como-calcular-diagona-do-retangulo (1)](https://github.com/brunamota/POO/assets/66503956/bde19170-6d8a-415d-b878-9e47bef5ea83)
 
 ### O que pode ser feito com essas caracteristicas?
 
