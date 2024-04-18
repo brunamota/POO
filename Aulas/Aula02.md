@@ -3,14 +3,16 @@
 
 ### Quais as características de um retângulo?
 
-- lados
-- ângulos
-- diagonais
+- Lados: possui quatro lados com pares congruentes. Os lados maiores são chamados de bases e os lados menores de altura.
+- Ângulos: os ângulos internos medem 90°, cuja soma deve sempre dar 360°.
+- Diagonais: possui duas diagonais com a mesma medida. Elas se interceptam no ponto médio, ou seja, na metade de cada uma destas diagonais.
+
+![como-calcular-diagona-do-retangulo](https://github.com/brunamota/POO/assets/66503956/7ccf448c-5f52-4990-a88e-32d88ab75191)
 
 ### O que pode ser feito com essas caracteristicas?
 
-- Calcular a area
-- Calcular o perimetro
+- Calcular a Área
+- Calcular o Perimetro
 
 # Exercício 1 – Retângulo
 - Classe Principal
