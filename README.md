@@ -11,7 +11,7 @@ Quinta - 7h30 às 9h10 - LEC 03
 
 ## Datas Importantes
 
-Entrega da Trabalho 1 (Lista 1 + Kahoot) - 13/05/2024
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Entrega da Trabalho 1 (Lista 1 + Kahoot) - 20/05/2024
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Entrega Trabalho 2 - 03/06/2024
 
