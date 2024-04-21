@@ -16,7 +16,7 @@
 
 # Exercício 1 – Retângulo
 - Classe Principal
-```
+``` Java
 package poligono;
 
 public class Principal {
@@ -48,9 +48,9 @@ public class Principal {
 }
 ```
 
-- Classe Retangulo
+- Classe Retângulo
 
-```
+``` Java
 package poligono;
 
 public class Retangulo {
