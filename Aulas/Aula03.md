@@ -3,13 +3,16 @@
 
 ### Quais as características de um Círculo?
 
-- Raio: possui quatro lados com pares congruentes. Os lados maiores são chamados de bases e os lados menores de altura.
-- Diamêtro: os ângulos internos medem 90°, cuja soma deve sempre dar 360°.
-- Corda: possui duas diagonais com a mesma medida. Elas se interceptam no ponto médio, ou seja, na metade de cada uma destas diagonais.
+- Raio: 
+- Diamêtro: 
+- Corda:
 
-![Circunferencia](https://github.com/brunamota/POO/assets/66503956/f8c1006f-365a-4831-85d8-eddb35e29535)
+![Circunferencia](https://github.com/brunamota/POO/assets/66503956/5cbf2998-fd95-402d-a01f-83eb9c5fc5f9)
+
 
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
   - A = $\pi$ * $raio^2$
+- Perímetro
+  - P = 2 * $\pi$ * raio
