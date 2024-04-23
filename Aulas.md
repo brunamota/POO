@@ -6,7 +6,7 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 3 - Estrutura de Classes e Instanciação de Objetos. Exercício 2 – Circunferência](https://github.com/brunamota/POO/blob/main/Aulas/Aula03.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 4 - Estrutura de Classes e Instanciação de Objetos. Exercício 3 – Triângulo]
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 4 - Estrutura de Classes e Instanciação de Objetos. Exercício 3 – Triângulo](https://github.com/brunamota/POO/blob/main/Aulas/Aula04.md)
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 5 - Herança: Generalização e Especialização – Exercício 4: Quadrado
 
