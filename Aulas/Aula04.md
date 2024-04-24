@@ -14,9 +14,9 @@
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
-  - $ A =  {base * altura \over 2} $
-- Perímetro
-  - P = 2 * $\pi$ * raio
+  - A = (base * altura)/$\over2$
+- Pitágoras:
+  - 
 
 # Exercício 2 – Circunferência
 
