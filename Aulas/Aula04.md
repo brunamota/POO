@@ -14,7 +14,7 @@
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
-  - $A = $(base * altura)\over2$$
+  - $A = (base * altura)\over2$
 
 # Exercício 3 - Triângulo
 
