@@ -16,7 +16,7 @@
 - Calcular a Área
   - A = (base * altura)/$\over2$
 - Pitágoras:
-  - $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+  - $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
 
 # Exercício 2 – Circunferência
 
