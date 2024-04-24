@@ -13,8 +13,10 @@
 
 ### O que pode ser feito com essas caracteristicas?
 
-- Calcular a Área
+- Calcular a Área:
   - $A =$ $(base * altura)\over2$
+- Pitágoras:
+  - $h^2$ = $c^2$ + $c^2$
 
 # Exercício 3 - Triângulo
 
