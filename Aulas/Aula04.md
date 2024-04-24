@@ -16,7 +16,7 @@
 - Calcular a Área
   - A = (base * altura)/$\over2$
 - Pitágoras:
-  - x = { $\over$ 2a}
+  - x = { 1 $\over2$}
 
 # Exercício 2 – Circunferência
 
