@@ -8,7 +8,6 @@
 - Altura: 
 - Ângulo: possui um ângulo interno de exatamente 90 graus. Esse ângulo é chamado de ângulo reto e é formado pela interseção da base e da altura do triângulo.
 
-
 ![1553868374277-yPZsU](https://github.com/brunamota/POO/assets/66503956/eb254f50-2347-4094-a410-41cca0f35304)
 
 ### O que pode ser feito com essas caracteristicas?
