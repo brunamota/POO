@@ -14,9 +14,9 @@
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
-  - A = (base * altura)/$\over2$
+  - A = $(base * altura)\over/2$
 - Pitágoras:
-  - x = { 1 $\over2$}
+  - 
 
 # Exercício 2 – Circunferência
 
