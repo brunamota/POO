@@ -14,7 +14,7 @@
 ### O que pode ser feito com essas caracteristicas?
 
 - Calcular a Área
-  - A = $$ {base * altura \over 2} $$
+  - $$ A =  {base * altura \over 2} $$
 - Perímetro
   - P = 2 * $\pi$ * raio
 
