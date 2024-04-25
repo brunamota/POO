@@ -14,8 +14,6 @@
 
 - Calcular a Área:
   - $A =$ $(base * altura)\over2$
-- Pitágoras:
-  - $a^2$ = $b^2$ + $c^2$
 
 # Exercício 3 - Triângulo
 
