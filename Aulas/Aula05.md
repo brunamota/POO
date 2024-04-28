@@ -2,7 +2,7 @@
 
 ### Quais as características de um Triângulo?
 
-Lados: possui quatro lados com pares congruentes. Os lados maiores são chamados de bases e os lados menores de altura.
+- Lados: possui quatro lados iguais.
 - Ângulos: os ângulos internos medem 90°, cuja soma deve sempre dar 360°.
 - Diagonais: possui duas diagonais com a mesma medida. Elas se interceptam no ponto médio, ou seja, na metade de cada uma destas diagonais.
 
