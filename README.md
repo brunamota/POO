@@ -29,7 +29,7 @@ Quinta - 7h30 às 9h10 - LEC 03
 
 ## Ferramentas utilizada na matéria
 
-![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) NetBeans - https://netbeans.apache.org/front/main/index.html
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) IDE - https://netbeans.apache.org/front/main/index.html ou https://www.jetbrains.com/idea/
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Java - https://www.oracle.com/technetwork/java/javase/downloads
 
