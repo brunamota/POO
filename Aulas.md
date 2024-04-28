@@ -8,9 +8,9 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 4 - Estrutura de Classes e Instanciação de Objetos. Exercício 3 – Triângulo](https://github.com/brunamota/POO/blob/main/Aulas/Aula04.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 5 - Herança: Generalização e Especialização – Exercício 4: Quadrado
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 5 - Herança: Generalização e Especialização – Exercício 4: Quadrado](https://github.com/brunamota/POO/blob/main/Aulas/Aula05.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 6 - Herança: Generalização e Especialização – Exercício 5: “Cilindro” – Exercício 6: Triângulos
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 6 - Herança: Generalização e Especialização – Exercício 5: Cilindro – Exercício 6: Triângulos
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 7 - Modificadores de acesso (public, private e protected). Abstract, Final – Métodos e Atributos estáticos (static). Objetos como parâmetros, métodos que retornam objetos. Ex. Autoincremento
 
