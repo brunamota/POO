@@ -1,7 +1,7 @@
 # Aula 6 - Herança: Generalização e Especialização
 
 ### Quais os tipos de triângulos existem?
-#### - Triangulo Equilatero
+### - Triangulo Equilatero
 
 - Calcular a Área
   - A =
