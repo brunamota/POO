@@ -4,7 +4,7 @@
 ### - Triangulo Equilátero
 
   - Calcular a Área
-    - A =
+    - A = $lado^2$ $\sqrt{3}$
 ### - Triangulo Isoceles
 
   - Calcular a Área
