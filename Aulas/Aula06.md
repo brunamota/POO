@@ -3,8 +3,8 @@
 ### Quais os tipos de triângulos existem?
 ### - Triangulo Equilatero
 
-- Calcular a Área
-  - A =
+  - Calcular a Área
+    - A =
   
 # Exercício 6 - Triângulos
 
