@@ -8,11 +8,13 @@
 ### - Triangulo Isoceles
 
   - Calcular a Área
-    - A =
+    - $A =$ $(base * altura)\over2$
 
 ### - Triangulo Escaleno
 
   - Calcular a Área
+    - Semiperímetro: 
+      - $p = $ $a+b+c \over 2$
     - A =
   
 # Exercício 6 - Triângulos
