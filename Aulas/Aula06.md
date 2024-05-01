@@ -3,6 +3,8 @@
 ### Quais os tipos de triângulos existem?
 ### - Triangulo Equilátero
 
+![Triangulo-equilatero-600x482 (1)](https://github.com/brunamota/POO/assets/66503956/86f55e57-a8df-487a-b3cb-0241dace8dcf)
+
   - Calcular a Área
     - $A =$ $lado^2 \sqrt{3} \over 2$
 ### - Triangulo Isoceles
