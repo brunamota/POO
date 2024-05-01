@@ -14,6 +14,8 @@
 
 ### - Triangulo Escaleno
 
+![diagrama-de-um-triangulo-escaleno-1-300x252_1](https://github.com/brunamota/POO/assets/66503956/0480d5a7-1345-4f93-946e-0e232ab93886)
+
   - Calcular a Área
     - Semiperímetro: 
       - $p =$ $a+b+c \over 2$
