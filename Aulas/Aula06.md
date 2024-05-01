@@ -36,7 +36,7 @@ código
 - Calcular a Área
   - A =
 
-# # Exercício 5 - Cilindro
+# Exercício 5 - Cilindro
 
 ```Java
 código
