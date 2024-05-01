@@ -25,6 +25,10 @@
   
 # Exercício 6 - Triângulos
 
+```Java
+código
+```
+
 ### Quais as características de um Cilindro?
 
 ### O que pode ser feito com essas características?
@@ -33,3 +37,7 @@
   - A =
 
 # # Exercício 5 - Cilindro
+
+```Java
+código
+```
