@@ -6,13 +6,13 @@
 ![Triangulo-equilatero-600x482 (1)](https://github.com/brunamota/POO/assets/66503956/86f55e57-a8df-487a-b3cb-0241dace8dcf)
 
   - Calcular a Área
-    - $A =$ $lado^2 \sqrt{3} \over 2$
+    - $A =$ $lado^2 \sqrt{3} \over 4$
 ### - Triangulo Isoceles
 
 ![diagrama-de-dois-triangulos-isosceles-480x239](https://github.com/brunamota/POO/assets/66503956/447b6137-5601-4754-b088-a8675d9ed00d)
 
   - Calcular a Área
-    - $A =$ $(base * altura)\over2$
+    - $A =$ $(base * altura)\over 2$
 
 ### - Triangulo Escaleno
 
