@@ -14,8 +14,8 @@
 
   - Calcular a Área
     - Semiperímetro: 
-      - $p = $ $a+b+c \over 2$
-    - A =
+      - $p =$ $a+b+c \over 2$
+    - $A =$ $\sqrt{p(p-a)(p-b)(p-c)} \over 2$
   
 # Exercício 6 - Triângulos
 
