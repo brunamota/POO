@@ -7,6 +7,8 @@
     - $A =$ $lado^2 \sqrt{3} \over 2$
 ### - Triangulo Isoceles
 
+![diagrama-de-dois-triangulos-isosceles-480x239](https://github.com/brunamota/POO/assets/66503956/447b6137-5601-4754-b088-a8675d9ed00d)
+
   - Calcular a Área
     - $A =$ $(base * altura)\over2$
 
