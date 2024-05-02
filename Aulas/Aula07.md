@@ -11,7 +11,7 @@ Um cilindro é uma figura geométrica tridimensional que consiste em duas bases 
 ### O que pode ser feito com essas características?
 
 - Calcular a Área
-  - A = 2πr² + 2πrh
+  - $A = 2πr² + 2πrh$
 
 # Exercício 6 - Cilindro
 
