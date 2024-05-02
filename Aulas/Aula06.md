@@ -12,6 +12,8 @@
 ![diagrama-de-dois-triangulos-isosceles-480x239](https://github.com/brunamota/POO/assets/66503956/447b6137-5601-4754-b088-a8675d9ed00d)
 
   - Calcular a Área
+    - Altura:
+      - $altura^2 = lado^2 - (base /over 2)^2$
     - $A =$ $(base * altura)\over 2$
 
 ### - Triangulo Escaleno
