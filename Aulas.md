@@ -10,13 +10,13 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 5 - Herança: Generalização e Especialização – Exercício 4: Quadrado](https://github.com/brunamota/POO/blob/main/Aulas/Aula05.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 6 - Herança: Generalização e Especialização – Exercício 5: Cilindro e Exercício 6: Triângulos
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 6 - Herança: Generalização e Especialização – Exercício 5: Triângulos](https://github.com/brunamota/POO/blob/main/Aulas/Aula06.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 7 - Modificadores de acesso (public, private e protected). Abstract, Final – Métodos e Atributos estáticos (static). Objetos como parâmetros, métodos que retornam objetos. Ex. Autoincremento
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 07 - Composição e Agregação - Exercício 6: Cilindro](https://github.com/brunamota/POO/blob/main/Aulas/Aula07.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 8 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 8 - Modificadores de acesso (public, private e protected). Abstract, Final – Métodos e Atributos estáticos (static). Objetos como parâmetros, métodos que retornam objetos. Ex. Autoincremento
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 9 - Interfaces Gráficas de gerenciamento de dados
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 9 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 10 - Interfaces Gráficas de gerenciamento de dados
 
@@ -24,20 +24,22 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 12 - Interfaces Gráficas de gerenciamento de dados
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 13 - Relação entre objetos e classes - Modulos Exemplo: uso do pacote gráfico Graphics na criação de gráficos
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 13 - Interfaces Gráficas de gerenciamento de dados
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 14 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 14 - Relação entre objetos e classes - Modulos Exemplo: uso do pacote gráfico Graphics na criação de gráficos
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 15 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de jogos
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 15 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 16 - Padrões de Projeto
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 16 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de jogos
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 17 - Padrões de Projeto
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 18 - Padrões de Projeto
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 19 - Aplicações WEB com Orientação a Objetos
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 19 - Padrões de Projeto
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 20 - Aplicações WEB com Orientação a Objetos
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 21 - Aplicações WEB com Orientação a Objetos
+
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 22 - Aplicações WEB com Orientação a Objetos
