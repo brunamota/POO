@@ -18,5 +18,68 @@ Um cilindro é uma figura geométrica tridimensional que consiste em duas bases 
 # Exercício 6 - Cilindro
 
 ```Java
-código
+package poligono;
+
+public class Principal {
+
+    public static void main(String[] args) {
+            //Cilindro
+            Cilindro c1 = new Cilindro(new Circunferencia(2), 5);
+            
+            System.out.println("Objeto Circulo: "+c1.getCirculo() + ", Altura: " + c1.getAltura());
+            System.out.println(c1);
+            Circunferencia circulo = new Circunferencia(5);
+            
+            c1.setCirculo(circulo);
+            c1.setAltura(2);      
+            
+            System.out.println("Objeto Circulo: "+c1.getCirculo() + ", Altura: " + c1.getAltura());
+            System.out.println(c1);                   
+    }   
+}
+```
+- Cilindro
+``` Java
+
+package poligono;
+
+public class Cilindro {
+    //atributos
+    private Circunferencia circulo;
+    private double altura;
+     
+    //Construtores
+    public Cilindro(){
+    }
+    
+    public Cilindro(Circunferencia circulo, double altura) {
+        this.circulo = circulo;
+        this.altura = altura;
+    }
+    
+    public Circunferencia getCirculo() {
+        return circulo;
+    }
+
+    public double getAltura() {
+        return altura;
+    }
+
+    public void setCirculo(Circunferencia circulo) {
+        this.circulo = circulo;
+    }
+
+    public void setAltura(double altura) {
+        this.altura = altura;
+    }
+    
+    public double areaCilindro(){
+        return (2 * this.circulo.areaCircunferencia()) + 2 * Math.PI * this.circulo.getRaioCircunferencia() * altura;
+    }
+
+    @Override
+    public String toString() {
+        return "Cilindro{" + "Raio: " + circulo.getRaioCircunferencia() + ", Altura: " + altura + ", Area: "+areaCilindro() + '}';
+    }
+}
 ```
