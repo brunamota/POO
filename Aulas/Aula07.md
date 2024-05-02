@@ -8,6 +8,8 @@ Um cilindro é uma figura geométrica tridimensional que consiste em duas bases 
 
 - Raio: O raio é a distância do centro de uma base até qualquer ponto da sua circunferência. Como as bases do cilindro são círculos, elas têm um raio comum.
 
+![cilindro-elementos-ilustracao (1)](https://github.com/brunamota/POO/assets/66503956/18d56357-c578-4465-84e0-7fee4a626a50)
+
 ### O que pode ser feito com essas características?
 
 - Calcular a Área
