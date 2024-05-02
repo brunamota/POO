@@ -11,7 +11,7 @@ Um cilindro é uma figura geométrica tridimensional que consiste em duas bases 
 ### O que pode ser feito com essas características?
 
 - Calcular a Área
-  - $A = $\pi$ * $raio^2$ + 2 * $\pi * raio * altura$
+  - $A = \pi * raio^2 + 2 * $\pi * raio * altura$
 
 # Exercício 6 - Cilindro
 
