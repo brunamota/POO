@@ -230,15 +230,3 @@ public class TrianguloEscaleno extends Triangulo{
     }
 }
 ```
-### Quais as características de um Cilindro?
-
-### O que pode ser feito com essas características?
-
-- Calcular a Área
-  - A =
-
-# Exercício 5 - Cilindro
-
-```Java
-código
-```
