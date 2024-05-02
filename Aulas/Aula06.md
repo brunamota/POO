@@ -13,7 +13,7 @@
 
   - Calcular a Área
     - Altura:
-      - $altura^2 = lado^2 - $ $(base /over 2)^2$
+      - $altura^2 = lado^2 - ( base /over 2 )^2$
     - $A =$ $(base * altura)\over 2$
 
 ### - Triangulo Escaleno
