@@ -39,6 +39,13 @@ Quinta - 7h30 às 9h10 - LEC 03
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) https://www.sololearn.com/pt/learn/courses/java-intermediate
 
+## Bônus
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Criar um GitHub para organizar as atividades da disciplina
+
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Maior sequência de dias no Sololearn (comprovada)
+
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) [Minecraft 2D](https://github.com/brunamota/POO/files/15200880/Desafio.POO.pdf)
+
 ## Documentos da Disciplina
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/b8344b25-f1a8-418a-905c-9dc41d2a85d5) [Plano de Ensino](https://github.com/brunamota/POO/files/15017784/Plano.de.Ensino.POO.-.01_2024.pdf)
