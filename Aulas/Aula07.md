@@ -83,3 +83,45 @@ public class Cilindro {
     }
 }
 ```
+- Circunferência
+``` Java
+
+package poligono;
+
+public class Circunferencia {
+    //atributos - característica
+    public double raioCirc;
+    
+    //Construtor vazio, sem parametro
+    public Circunferencia() {
+        
+    }
+    
+    //Construtor com parâmetro
+    public Circunferencia(double raioCirc) {
+        this.raioCirc = raioCirc;
+    }
+    
+    //Acessar os metodos
+    //obter dados do objetos
+    public double getRaioCirc() {
+        return raioCirc;
+    }
+
+    //alterar dados do objetos
+    public void setRaioCirc(double raioCirc) {
+        this.raioCirc = raioCirc;
+    }
+
+    //retorna uma string que "textualmente representa" esse objeto
+    @Override
+    public String toString() {
+        return "Circunferencia {" + "raioCirc = " + raioCirc + '}';
+    }
+    
+    //métodos - comportamento do objeto
+    public double areaCirc(){
+        return  (Math.pow(raioCirc, 2) * Math.PI);
+    }
+}
+```
