@@ -1,4 +1,4 @@
-# Aula 8 - Modificadores de acesso, métodos e atributos estáticos, objetos como parâmetros, métodos que retornam objetos
+# Aula 8 - Modificadores de acesso, métodos e atributos estáticos
 
 ### Modificadores de acesso
 
