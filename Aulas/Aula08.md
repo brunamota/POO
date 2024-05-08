@@ -21,3 +21,90 @@ Atributos e métodos estáticos pertencem à classe em vez de pertencerem a inst
 Assim como métodos podem receber objetos como parâmetros, eles também podem retornar objetos como resultado. Isso permite que os métodos criem e retornem novas instâncias de objetos.
 
 # Autoincremento
+
+- Classe Cliente
+``` Java
+
+package clientes;
+
+import java.util.ArrayList;
+import java.util.List;
+import javax.swing.JOptionPane;
+
+public class Clientes {
+    
+    static List<Cadastro>clientes = new ArrayList<Cadastro>();
+    
+    static void inserirCliente(String nome){
+        Cadastro c = new Cadastro(nome);
+        clientes.add(c);
+    }
+    
+    public static void main(String[] args) {
+        
+        for(int i = 0; i < 5; i++){
+            inserirCliente(JOptionPane.showInputDialog("Nome:"));
+        }
+        for(Cadastro cliente: clientes){
+            JOptionPane.showMessageDialog(null, cliente);
+        }
+        
+        System.out.println(clientes);
+        
+//        Cadastro c1 = new Cadastro("Bruna");
+//        Cadastro c2 = new Cadastro("Marcos");
+//        Cadastro c3 = new Cadastro("Wagner");
+//        
+//        System.out.println(c1);
+//        System.out.println(c2);
+//        System.out.println(c3);
+        
+        
+    }
+    
+}
+```
+- Classe Cadastro
+```Java
+
+package clientes;
+
+public class Cadastro {
+    
+    //atributos
+    private int codCliente;
+    private String nomeCliente;
+    
+    //metodo estatico 
+    static int codClienteStatic = 0;
+
+    public Cadastro(String nomeCliente) {
+        this.codCliente = ++codClienteStatic;
+        this.nomeCliente = nomeCliente;
+    }
+
+    public int getCodCliente() {
+        return codCliente;
+    }
+
+    public String getNomeCliente() {
+        return nomeCliente;
+    }
+
+    public void setCodCliente(int codCliente) {
+        this.codCliente = codCliente;
+    }
+
+    public void setNomeCliente(String nomeCliente) {
+        this.nomeCliente = nomeCliente;
+    }
+
+    @Override
+    public String toString() {
+        return "Cadastro{" + "Codigo: " + codCliente + ", Nome: " + nomeCliente + '}';
+    }
+    
+    
+    
+}
+```
