@@ -10,20 +10,15 @@ Os modificadores de acesso são palavras-chave que definem o nível de acesso ao
 ### Modificadores de Método
 - abstract: Um método abstrato não possui implementação na classe em que é declarado. Ele deve ser implementado nas subclasses.
 - final: Um método final não pode ser sobrescrito em subclasses. Ele mantém a implementação definida na classe em que é declarado.
-
-### Atributos e Métodos Estáticos (static)
-Atributos e métodos estáticos pertencem à classe em vez de pertencerem a instâncias individuais (objetos) da classe. Eles podem ser acessados diretamente usando o nome da classe, sem a necessidade de criar uma instância.
-- Atributo estático: É compartilhado por todas as instâncias da classe. Pode ser acessado usando o nome da classe, seguido pelo nome do atributo.
-- Método estático: Não requer uma instância da classe para ser invocado. Pode ser acessado usando o nome da classe, seguido pelo nome do método.
-### Objetos como Parâmetros
-É possível passar objetos como parâmetros para métodos. Isso permite que os métodos manipulem e interajam com os objetos fornecidos como argumentos.
-### Métodos que Retornam Objetos
-Assim como métodos podem receber objetos como parâmetros, eles também podem retornar objetos como resultado. Isso permite que os métodos criem e retornem novas instâncias de objetos.
+- static: Atributos e métodos estáticos pertencem à classe em vez de pertencerem a instâncias individuais (objetos) da classe. Eles podem ser acessados diretamente usando o nome da classe, sem a necessidade de criar uma instância.
+    - Atributo estático: É compartilhado por todas as instâncias da classe. Pode ser acessado usando o nome da classe, seguido pelo nome do atributo.
+    - Método estático: Não requer uma instância da classe para ser invocado. Pode ser acessado usando o nome da classe, seguido pelo nome do método.
 
 # Autoincremento
 
 - Classe Cliente
 ``` Java
+
 
 package clientes;
 
@@ -33,36 +28,41 @@ import javax.swing.JOptionPane;
 
 public class Clientes {
     
+    //atributo estatico
     static List<Cadastro>clientes = new ArrayList<Cadastro>();
     
+    //metodo estatico
     static void inserirCliente(String nome){
         Cadastro c = new Cadastro(nome);
         clientes.add(c);
     }
     
     public static void main(String[] args) {
-        
+        //Aparecer janela para digitar nome
         for(int i = 0; i < 5; i++){
             inserirCliente(JOptionPane.showInputDialog("Nome:"));
         }
+        //Aparecer janela nomes digitados
         for(Cadastro cliente: clientes){
             JOptionPane.showMessageDialog(null, cliente);
         }
         
         System.out.println(clientes);
-        
-//        Cadastro c1 = new Cadastro("Bruna");
-//        Cadastro c2 = new Cadastro("Marcos");
-//        Cadastro c3 = new Cadastro("Wagner");
-//        
-//        System.out.println(c1);
-//        System.out.println(c2);
-//        System.out.println(c3);
+       
+      //metodo anteriormente aprendido para instanciar um objeto
+//    Cadastro c1 = new Cadastro("Bruna");
+//    Cadastro c2 = new Cadastro("Marcos");
+//    Cadastro c3 = new Cadastro("Wagner");
+//
+//    System.out.println(c1);
+//    System.out.println(c2);
+//    System.out.println(c3);
         
         
     }
     
 }
+
 ```
 - Classe Cadastro
 ```Java
