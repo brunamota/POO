@@ -52,6 +52,8 @@ Quinta - 7h30 às 9h10 - LEC 03
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Aulas](https://github.com/brunamota/POO/blob/main/Aulas.md)
 
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Códigos feito em sala](https://github.com/brunamota/POO/tree/main/Poligono)
+
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Trabalhos](https://github.com/brunamota/POO/blob/main/Trabalhos.md)
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/cef9c66b-7539-4c12-9161-4151f7d31bfa) [Material de Apoio](https://github.com/brunamota/POO/files/15018020/Conteudo_POO.pdf)
