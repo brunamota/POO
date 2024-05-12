@@ -56,6 +56,7 @@ public class Relacoes {
         System.out.println(venda);
         
         venda = null;
+
         //venda é cancelada, mas o vendedor e comprador não deixam de existir
         System.out.println(venda);
         System.out.println(vendedor);
