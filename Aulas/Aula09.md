@@ -1,7 +1,5 @@
+![associação](https://github.com/brunamota/POO/assets/66503956/7a6f5bf7-eb31-4ccc-baee-b6f8e50d2afa)
 
+![composição](https://github.com/brunamota/POO/assets/66503956/ab2e5e19-1fd7-4375-bccd-88c9a35bc400)
 
-![composição](https://github.com/brunamota/POO/assets/66503956/af68665f-22a3-45b1-a188-9d716af92daa)
-
-![agregação](https://github.com/brunamota/POO/assets/66503956/b7c619b6-d72c-4194-85a7-dd96dd6c13ef)
-
-![associação](https://github.com/brunamota/POO/assets/66503956/0b83459d-05c5-41fa-8ad3-144cac51cb98)
+![agregação](https://github.com/brunamota/POO/assets/66503956/23475506-fd40-4e08-985a-8e7e627d3727)
