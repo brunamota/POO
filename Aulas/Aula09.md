@@ -17,10 +17,43 @@ Um trem **usa** uma estrada de ferro. A estrada não faz parte de trem, mas depe
 Para orientação a objeto, o funcionamento da classe trem depende da classe estrada estar funcionando/liberada.
 
 ![associação](https://github.com/brunamota/POO/assets/66503956/7a6f5bf7-eb31-4ccc-baee-b6f8e50d2afa)
+# Exercicio 8 -  Relações
 
-# Exercício 8 - Venda
+``` Java
 
-# Composição 9 - Banco
+package relacoes;
+
+
+public class Relacoes {
+
+    public static void main(String[] args) {
+        
+//        //Associação
+//        Carro carro = new Carro("Prata", new Pneu(255, 60, 18));   
+//        System.out.println(carro);
+        
+        //Composição        
+        ContaCorrente contas[] = new ContaCorrente[2];
+        contas[0] = new ContaCorrente("001", 1050, 15000);
+        contas[1] = new ContaCorrente("002", 1060, 5000);
+        
+        ContaPoupanca poupanca[] = new ContaPoupanca[2];
+        poupanca[0] = new ContaPoupanca("001", 1115, 150000);
+        poupanca[1] = new ContaPoupanca("002", 1116, 500);
+        
+        Banco banco = new Banco("Banco do Brasil", contas, poupanca);
+   
+        System.out.println(banco);
+        
+        //Agregação
+    }  
+}
+
+
+```
+## a) Venda - Agregação
+
+## b) Banco - Composição
 
 ```Java
 
@@ -111,7 +144,7 @@ class ContaPoupanca extends Conta{
 }
 ```
 
-# Associação 10 - Carro
+## c) Carro - Associação
 ``` Java
 
 package relacoes;
