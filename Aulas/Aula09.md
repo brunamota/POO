@@ -51,9 +51,8 @@ public class Relacoes {
 
 
 ```
-## a) Venda - Agregação
 
-## b) Banco - Composição
+## a) Banco - Composição
 
 ```Java
 
@@ -144,7 +143,7 @@ class ContaPoupanca extends Conta{
 }
 ```
 
-## c) Carro - Associação
+## b) Carro - Associação
 ``` Java
 
 package relacoes;
@@ -252,4 +251,133 @@ class Pneu{
     }   
     
 }
+```
+## a) Venda - Agregação
+- Vendedor
+```Java
+
+package relacoes;
+
+
+public class Vendedor {
+    //atributos
+    private int codigo;
+    private String nome;
+    
+    //metodos
+
+    public Vendedor(int codigo, String nome) {
+        this.codigo = codigo;
+        this.nome = nome;
+    }
+
+    public int getCodigo() {
+        return codigo;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setCodigo(int codigo) {
+        this.codigo = codigo;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    @Override
+    public String toString() {
+        return "Vendedor{" + "codigo=" + codigo + ", nome=" + nome + '}';
+    }
+    
+}
+
+```
+- Comprador
+```Java
+
+package relacoes;
+
+public class Comprador {
+    //atributos
+    private int codigo;
+    private String nome;
+    
+    //metodos
+
+    public Comprador(int codigo, String nome) {
+        this.codigo = codigo;
+        this.nome = nome;
+    }
+
+    public int getCodigo() {
+        return codigo;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setCodigo(int codigo) {
+        this.codigo = codigo;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    @Override
+    public String toString() {
+        return "Comprador{" + "codigo=" + codigo + ", nome=" + nome + '}';
+    }
+}
+```
+- Venda
+```Java
+
+package relacoes;
+
+public class Venda {
+    private Comprador comprador;
+    private Vendedor vendedor;
+    private String produto;
+
+    public Venda(Comprador comprador, Vendedor vendedor, String produto) {
+        this.comprador = comprador;
+        this.vendedor = vendedor;
+        this.produto = produto;
+    }
+
+    public Comprador getComprador() {
+        return comprador;
+    }
+
+    public Vendedor getVendedor() {
+        return vendedor;
+    }
+
+    public String getProduto() {
+        return produto;
+    }
+
+    public void setComprador(Comprador comprador) {
+        this.comprador = comprador;
+    }
+
+    public void setVendedor(Vendedor vendedor) {
+        this.vendedor = vendedor;
+    }
+
+    public void setProduto(String produto) {
+        this.produto = produto;
+    }
+
+    @Override
+    public String toString() {
+        return "Venda{" + comprador + "\n" + vendedor + "\nProduto=" + produto + '}';
+    }
+}
+
 ```
