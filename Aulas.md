@@ -16,7 +16,7 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 8 - Modificadores de acesso, métodos e atributos estáticos - Exercício 7: Autoincremento](https://github.com/brunamota/POO/blob/main/Aulas/Aula08.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 9 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 9 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos](https://github.com/brunamota/POO/blob/main/Aulas/Aula09.md)
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 10 - Interfaces Gráficas de gerenciamento de dados
 
