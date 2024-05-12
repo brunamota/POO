@@ -23,7 +23,6 @@ Para orientação a objeto, o funcionamento da classe trem depende da classe est
 
 package relacoes;
 
-
 public class Relacoes {
 
     public static void main(String[] args) {
@@ -46,9 +45,23 @@ public class Relacoes {
         System.out.println(banco);
         
         //Agregação
+        Vendedor vendedor = new Vendedor(1,"Marcos Wagner");
+        Comprador comprador = new Comprador(1, "Fulano");
+        
+        System.out.println(vendedor);
+        System.out.println(comprador);
+        
+        Venda venda = new Venda(comprador, vendedor, "Sobonete");
+        
+        System.out.println(venda);
+        
+        venda = null;
+        //venda é cancelada, mas o vendedor e comprador não deixam de existir
+        System.out.println(venda);
+        System.out.println(vendedor);
+        System.out.println(comprador);
     }  
 }
-
 
 ```
 
