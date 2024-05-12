@@ -3,6 +3,7 @@
 ### Composição
 Um trem é formado por 1 locomotivas e n vagões. Relacionamento tem-um.
 Para orientação a objeto, uma composição seria uma classe composta por outros.
+
 ![composição](https://github.com/brunamota/POO/assets/66503956/ab2e5e19-1fd7-4375-bccd-88c9a35bc400)
 
 
