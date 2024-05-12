@@ -1,18 +1,18 @@
 # Aula 09 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos
 
-### Composição
+### 1- Composição:
 Um trem **é formado por** 1 locomotivas e n vagões. Relacionamento tem-um. A classe trem precisa ter pelo menos 1 locomotiva para existir.
 Para orientação a objeto, uma composição seria uma classe composta por outras. 
 
 ![composição](https://github.com/brunamota/POO/assets/66503956/ab2e5e19-1fd7-4375-bccd-88c9a35bc400)
 
-### Agregação
+### 2- Agregação:
 Uma locomotiva (todo) **tem** um farol (parte), mas não deixa de existir caso não tenha o farol.
 Para orientação a objeto, classe não depende de outra para existir.
 
 ![agregação](https://github.com/brunamota/POO/assets/66503956/23475506-fd40-4e08-985a-8e7e627d3727)
 
-### Associação
+### 3- Associação:
 Um trem **usa** uma estrada de ferro. A estrada não faz parte de trem, mas depende dela para funcionar.
 Para orientação a objeto, o funcionamento da classe trem depende da classe estrada estar funcionando/liberada.
 
