@@ -28,9 +28,9 @@ public class Relacoes {
 
     public static void main(String[] args) {
         
-//        //Associação
-//        Carro carro = new Carro("Prata", new Pneu(255, 60, 18));   
-//        System.out.println(carro);
+        //Associação
+        Carro carro = new Carro("Prata", new Pneu(255, 60, 18));   
+        System.out.println(carro);
         
         //Composição        
         ContaCorrente contas[] = new ContaCorrente[2];
