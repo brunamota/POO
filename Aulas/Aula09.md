@@ -2,5 +2,6 @@
 
 ![composição](https://github.com/brunamota/POO/assets/66503956/af68665f-22a3-45b1-a188-9d716af92daa)
 
+![agregação](https://github.com/brunamota/POO/assets/66503956/b7c619b6-d72c-4194-85a7-dd96dd6c13ef)
 
-![locomotica](https://github.com/brunamota/POO/assets/66503956/0e15642f-8e1f-48fc-8260-67bcfc48469f) ![vagao](https://github.com/brunamota/POO/assets/66503956/4d22a094-24d8-4107-960f-6202a1d278aa) ![ultimoVagao](https://github.com/brunamota/POO/assets/66503956/8dcc7e7e-8e24-42fb-aac3-a4b19117e723)
+![associação](https://github.com/brunamota/POO/assets/66503956/0b83459d-05c5-41fa-8ad3-144cac51cb98)
