@@ -3,7 +3,7 @@
 ### Modificadores de acesso
 
 Os modificadores de acesso são palavras-chave que definem o nível de acesso aos membros (atributos e métodos) de uma classe. Os três principais modificadores de acesso são:
-- public: os membros públicos podem ser acessados de qualquer lugar, tanto dentro como fora da classe.
+    - public: os membros públicos podem ser acessados de qualquer lugar, tanto dentro como fora da classe.
 - private: os membros privados só podem ser acessados de dentro da própria classe. Eles não são visíveis para outras classes.
 - protected: os membros protegidos têm um nível de acesso intermediário. Eles podem ser acessados dentro da própria classe, em subclasses (herança) e em classes no mesmo pacote.
 
