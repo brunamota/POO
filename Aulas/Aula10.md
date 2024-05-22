@@ -1,7 +1,7 @@
 ![Captura de tela 2024-05-22 190408](https://github.com/brunamota/POO/assets/66503956/d331cd6c-4bc2-4721-ba4d-02a574eb60bc)
 
-- Código feito em sala
-  - Interface
+# Código feito em sala
+- Interface
 ``` Java  
 package clientes;
 
@@ -87,7 +87,7 @@ public class Interface extends JFrame implements ActionListener{
     
 }
 ```
-  - Cliente
+- Cliente
 ``` Java
 package clientes;
 
@@ -108,7 +108,7 @@ public class Clientes {
     }
 }
 ```
-  - Cadastro
+- Cadastro
 ```Java
 
 package clientes;
