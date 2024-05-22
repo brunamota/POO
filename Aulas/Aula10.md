@@ -87,7 +87,7 @@ public class Interface extends JFrame implements ActionListener{
     
 }
 ```
-- Cliente
+- Cliente (main)
 ``` Java
 package clientes;
 
