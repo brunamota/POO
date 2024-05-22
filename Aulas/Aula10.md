@@ -1,12 +1,8 @@
 ![Captura de tela 2024-05-22 190408](https://github.com/brunamota/POO/assets/66503956/d331cd6c-4bc2-4721-ba4d-02a574eb60bc)
 
 - Código feito em sala
-- Cliente
-- Cadastro
-- Interface
-- 
-``` Java
-  
+  - Interface
+``` Java  
 package clientes;
 
 import java.awt.BorderLayout;
@@ -88,6 +84,72 @@ public class Interface extends JFrame implements ActionListener{
             System.exit(0);
         }
     }
+    
+}
+```
+  - Cliente
+``` Java
+package clientes;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Clientes {
+    
+    static List<Cadastro>clientes = new ArrayList<Cadastro>();
+    
+    static void inserirCliente(String nome){
+        Cadastro c = new Cadastro(nome);
+        clientes.add(c);
+    }
+
+    public static void main(String[] args) {
+          new Interface();
+    }
+}
+```
+  - Cadastro
+```Java
+
+package clientes;
+
+public class Cadastro {
+    
+    //atributo da classe
+    static int codClienteStatic = 1;
+    
+    //atributo objeto
+    private int codCliente;
+    private String nomeCliente;
+
+    public Cadastro(){}
+    
+    public Cadastro(String nomeCliente) {
+        this.codCliente = codClienteStatic++;
+        this.nomeCliente = nomeCliente;
+    }
+
+    public int getCodCliente() {
+        return codCliente;
+    }
+
+    public String getNomeCliente() {
+        return nomeCliente;
+    }
+
+    public void setCodCliente(int codCliente) {
+        this.codCliente = codCliente;
+    }
+
+    public void setNomeCliente(String nomeCliente) {
+        this.nomeCliente = nomeCliente;
+    }
+
+    @Override
+    public String toString() {
+        return "Cadastro{" + "Codigo =" + codCliente + ", Nome=" + nomeCliente + '}';
+    }
+    
     
 }
 ```
