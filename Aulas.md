@@ -18,7 +18,7 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 9 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos](https://github.com/brunamota/POO/blob/main/Aulas/Aula09.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 10 - Interfaces Gráficas de gerenciamento de dados
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 10 - Interfaces Gráficas de gerenciamento de dados](https://github.com/brunamota/POO/blob/main/Aulas/Aula10.md)
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 11 - Interfaces Gráficas de gerenciamento de dados
 
