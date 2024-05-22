@@ -7,6 +7,7 @@ Criação de uma interface de Cadastro utilizando o Swing e AWT do Java.
 ## Código feito em sala
 - Interface
 ``` Java  
+
 package clientes;
 
 import java.awt.BorderLayout;
@@ -29,6 +30,8 @@ public class Interface extends JFrame implements ActionListener{
     private JTextField tfCodigo, tfNome;
     private JButton btCriar, btMostrar, btSair;
     private Container tela;
+    
+    Cadastro cadastro = new Cadastro();
     
     Interface(){        
         
@@ -72,6 +75,11 @@ public class Interface extends JFrame implements ActionListener{
         pnBotoes.add(btMostrar);
         pnBotoes.add(btSair);
         
+        //Evento dos botoes
+        btSair.addActionListener(this);
+        btMostrar.addActionListener(this);
+        btCriar.addActionListener(this);
+        
         //Criação da tela
         this.setTitle("Cadastro de Clientes");
         this.setSize(400,120);
@@ -87,9 +95,18 @@ public class Interface extends JFrame implements ActionListener{
         if(e.getSource() == btSair){
             System.exit(0);
         }
+        if(e.getSource() == btMostrar){
+            System.out.println(cadastro);
+        }      
+        if(e.getSource() == btCriar){
+            //cadastro.setCodCliente(tfCodigo.getText);
+            cadastro.setNomeCliente(tfNome.getText());
+            System.out.println("entrou");
+        }
     }
     
 }
+
 ```
 - Cliente (main)
 ``` Java
