@@ -100,7 +100,8 @@ public class Interface extends JFrame implements ActionListener{
         btMostrar.addActionListener(this);
         btNovo.addActionListener(this);
         btInserir.addActionListener(this);
-        
+
+        //impede o usuário a alterar o campo Código Cliente
         tfCodigo.setEditable(false);
         
         //Criação da tela
