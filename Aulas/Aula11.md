@@ -6,15 +6,15 @@ Alteração na interface de cadastro para que ela fique mais para o cliente e os
 
 :white_check_mark: Excluímos o botão Criar
 
-:heavy_check_mark: Foi acrescentado o botão Novo para que ele limpe os campos preenchidos quando for adicionar um novo cliente.
+:white_check_mark: Foi acrescentado o botão Novo para que ele limpe os campos preenchidos quando for adicionar um novo cliente.
 
-:heavy_check_mark: Foi acrescentado o botão Inserir para a criação de objetos, substituiu o Criar.
+:white_check_mark: Foi acrescentado o botão Inserir para a criação de objetos, substituiu o Criar.
 
-:heavy_check_mark: Foi implementado um método inserirClientes() para armazená-los em uma lista.
+:white_check_mark: Foi implementado um método inserirClientes() para armazená-los em uma lista.
 
-:heavy_check_mark: Foi implementado um método mostrarClientes() para visualizá-los de forma individual.
+:white_check_mark: Foi implementado um método mostrarClientes() para visualizá-los de forma individual.
 
-:heavy_check_mark: Ajustamos o campo Código Cliente para não ser alterado pelo usuário e ele seja mostrado em todo objeto criado.
+:white_check_mark: Ajustamos o campo Código Cliente para não ser alterado pelo usuário e ele seja mostrado em todo objeto criado.
 
 ## Código desenvolvido
 Obs.: Os códigos desenvolvidos em sala estão utilizando o GUI (Graphical User Interface) do NetBeans, os códigos abaixo são para a criação da mesma tela, mas de forma manual apenas usando os pacotes AWT e SWING. Outras IDEs tem a mesma ferramenta, só precisam ser configuradas.
