@@ -17,7 +17,7 @@ Alteração na interface de cadastro para que ela fique mais para o cliente e os
 :heavy_check_mark: Ajustamos o campo Código Cliente para não ser alterado pelo usuário e ele seja mostrado em todo objeto criado.
 
 # Código desenvolvido
-Inteface 
+- Inteface 
 ```Java
 
 package clientes;
@@ -144,7 +144,7 @@ public class Interface extends JFrame implements ActionListener{
 }
 ```
 
-Cliente (main)
+- Cliente (main)
 ```Java
 package clientes;
 
@@ -158,8 +158,7 @@ public class Clientes {
     
 }
 ```
-
-Cadastro (nada da última aula foi alterado nele)
+- Cadastro (nada da última aula foi alterado nele)
 ```Java
 package clientes;
 
