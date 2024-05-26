@@ -1,18 +1,18 @@
 # Aula 11 - Interfaces Gráficas de gerenciamento de dados
 
-Alteração na interface de cadastro para que ela fique mais intuitiva para o cliente e os cadastros comece a armazená-los.
+Alteração na interface de cadastro para que ela fique mais para o cliente e os cadastros comece a armazená-los.
 
 ![Captura de tela 2024-05-26 173719](https://github.com/brunamota/POO/assets/66503956/2aa310c9-872c-4254-93d5-ecac620c71d2)
 
 - [x] Excluímos o botão Criar
 
-- [x] Foi acrescentado o botão Novo.
+- [x] Foi acrescentado o botão Novo para que ele limpe os campos preenchidos quando for adicionar um novo cliente.
 
-- [x] Foi acrescentado o botão Inserir para a criação de objetos.
+- [x] Foi acrescentado o botão Inserir para a criação de objetos, substituiu o Criar.
 
 - [x] Foi implementado um método inserirClientes() para armazená-los em uma lista.
 
-- [x] Foi implementado um método mostrarClientes() para visualiza-los de forma individual.
+- [x] Foi implementado um método mostrarClientes() para visualizá-los de forma individual.
 
 - [x] Ajustamos o campo Código Cliente para não ser alterado pelo usuário e ele seja mostrado em todo objeto criado.
 
