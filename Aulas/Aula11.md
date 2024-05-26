@@ -5,10 +5,15 @@ Alteração na interface de cadastro para que ela fique mais intuitiva para o cl
 ![Captura de tela 2024-05-26 173719](https://github.com/brunamota/POO/assets/66503956/2aa310c9-872c-4254-93d5-ecac620c71d2)
 
 [x] Excluímos o botão Criar
+
 [x] Foi acrescentado o botão Novo.
+
 [x] Foi acrescentado o botão Inserir para a criação de objetos.
+
 [x] Foi implementado um método inserirClientes() para armazená-los em uma lista.
+
 [x] Foi implementado um método mostrarClientes() para visualiza-los de forma individual.
+
 [x] Ajustamos o campo Código Cliente para não ser alterado pelo usuário e ele seja mostrado em todo objeto criado.
 
 # Código desenvolvido
