@@ -4,7 +4,7 @@ Alteração na interface de cadastro para que ela fique mais para o cliente e os
 
 ![Captura de tela 2024-05-26 173719](https://github.com/brunamota/POO/assets/66503956/2aa310c9-872c-4254-93d5-ecac620c71d2)
 
-- [x] Excluímos o botão Criar
+:heavy_check_mark: Excluímos o botão Criar
 
 - [x] Foi acrescentado o botão Novo para que ele limpe os campos preenchidos quando for adicionar um novo cliente.
 
