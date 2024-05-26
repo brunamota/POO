@@ -6,15 +6,15 @@ Alteração na interface de cadastro para que ela fique mais para o cliente e os
 
 :heavy_check_mark: Excluímos o botão Criar
 
-- [x] Foi acrescentado o botão Novo para que ele limpe os campos preenchidos quando for adicionar um novo cliente.
+:heavy_check_mark: Foi acrescentado o botão Novo para que ele limpe os campos preenchidos quando for adicionar um novo cliente.
 
-- [x] Foi acrescentado o botão Inserir para a criação de objetos, substituiu o Criar.
+:heavy_check_mark: Foi acrescentado o botão Inserir para a criação de objetos, substituiu o Criar.
 
-- [x] Foi implementado um método inserirClientes() para armazená-los em uma lista.
+:heavy_check_mark: Foi implementado um método inserirClientes() para armazená-los em uma lista.
 
-- [x] Foi implementado um método mostrarClientes() para visualizá-los de forma individual.
+:heavy_check_mark: Foi implementado um método mostrarClientes() para visualizá-los de forma individual.
 
-- [x] Ajustamos o campo Código Cliente para não ser alterado pelo usuário e ele seja mostrado em todo objeto criado.
+:heavy_check_mark: Ajustamos o campo Código Cliente para não ser alterado pelo usuário e ele seja mostrado em todo objeto criado.
 
 # Código desenvolvido
 Inteface 
