@@ -1,6 +1,6 @@
 # Aula 11 - Interfaces Gráficas de gerenciamento de dados
 
-Alteração na interface de cadastro para que ela fique mais intuitiva para o cliente e comece a armazená-los.
+Alteração na interface de cadastro para que ela fique mais intuitiva para o cliente e os cadastros comece a armazená-los.
 
 ![Captura de tela 2024-05-26 173719](https://github.com/brunamota/POO/assets/66503956/2aa310c9-872c-4254-93d5-ecac620c71d2)
 
