@@ -14,6 +14,8 @@ Agora podemos percorrer pelos cadastros feitos por meio das setas.
 
 :white_check_mark: Fazer tratamentos de erro e deixando os botões ativos só em momentos específicos.
 
+:white_check_mark: Criamos um JLabel que atualzia com status dos cadastros.
+
 ## Código desenvolvido
 Obs.: Os códigos desenvolvidos em sala estão utilizando o GUI (Graphical User Interface) do NetBeans, os códigos abaixo são para a criação da mesma tela, mas de forma manual apenas usando os pacotes AWT e SWING. Outras IDEs tem a mesma ferramenta, só precisam ser configuradas.
 - Inteface 
