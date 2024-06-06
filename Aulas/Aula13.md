@@ -6,6 +6,7 @@ Não ta pronta essa, não copia
 
 ``` Java
 
+
 package dao;
 
 import java.io.Serializable;
@@ -13,11 +14,11 @@ import java.util.List;
 import javax.persistence.EntityManager;
     import javax.persistence.EntityManagerFactory;
 import javax.persistence.criteria.CriteriaQuery;
-import model.Cadastrocliente;
+import model.Clientes;
 
 
-public class CadastroclienteJpaController implements Serializable {
-     public CadastroclienteJpaController(EntityManagerFactory emf) {
+public class ClientesJpaController implements Serializable {
+     public ClientesJpaController(EntityManagerFactory emf) {
         this.emf = emf;
     }
     private EntityManagerFactory emf = null;
@@ -26,54 +27,54 @@ public class CadastroclienteJpaController implements Serializable {
         return emf.createEntityManager();
     }
 
-    public void create(Cadastrocliente cadastrocliente) {
+    public void create(Clientes Clientes) {
         EntityManager em = emf.createEntityManager();
         em.getTransaction().begin();
-        em.persist(cadastrocliente);
+        em.persist(Clientes);
         em.getTransaction().commit();
         em.close();
     }
 
-    public void edit(Cadastrocliente cadastrocliente) {
+    public void edit(Clientes Clientes) {
         EntityManager em = emf.createEntityManager();
         em.getTransaction().begin();
-        em.merge(cadastrocliente);
+        em.merge(Clientes);
         em.getTransaction().commit();
         em.close();
     }
 
-    public void remove(Cadastrocliente cadastrocliente) {
+    public void remove(Clientes Clientes) {
         EntityManager em = emf.createEntityManager();
         em.getTransaction().begin();
-        em.remove(em.merge(cadastrocliente));
+        em.remove(em.merge(Clientes));
         em.getTransaction().commit();
         em.close();
     }
 
-    public Cadastrocliente find(Object id) {
+    public Clientes find(Object id) {
         EntityManager em = emf.createEntityManager();
-        Cadastrocliente cadastrocliente = em.find(Cadastrocliente.class, id);
+        Clientes Clientes = em.find(Clientes.class, id);
         em.close();
-        return cadastrocliente;
+        return Clientes;
     }
 
-    public List<Cadastrocliente> findAll() {
+    public List<Clientes> findAll() {
         EntityManager em = emf.createEntityManager();
         CriteriaQuery cq = em.getCriteriaBuilder().createQuery();
-        cq.select(cq.from(Cadastrocliente.class));
-        List<Cadastrocliente> result = em.createQuery(cq).getResultList();
+        cq.select(cq.from(Clientes.class));
+        List<Clientes> result = em.createQuery(cq).getResultList();
         em.close();
         return result;
     }
 
-    public List<Cadastrocliente> findRange(int[] range) {
+    public List<Clientes> findRange(int[] range) {
         EntityManager em = emf.createEntityManager();
         CriteriaQuery cq = em.getCriteriaBuilder().createQuery();
-        cq.select(cq.from(Cadastrocliente.class));
+        cq.select(cq.from(Clientes.class));
         javax.persistence.Query q = em.createQuery(cq);
         q.setMaxResults(range[1] - range[0] + 1);
         q.setFirstResult(range[0]);
-        List<Cadastrocliente> result = q.getResultList();
+        List<Clientes> result = q.getResultList();
         em.close();
         return result;
     }
@@ -81,7 +82,7 @@ public class CadastroclienteJpaController implements Serializable {
     public int count() {
         EntityManager em = emf.createEntityManager();
         CriteriaQuery cq = em.getCriteriaBuilder().createQuery();
-        javax.persistence.criteria.Root<Cadastrocliente> rt = cq.from(Cadastrocliente.class);
+        javax.persistence.criteria.Root<Clientes> rt = cq.from(Clientes.class);
         cq.select(em.getCriteriaBuilder().count(rt));
         javax.persistence.Query q = em.createQuery(cq);
         int count = ((Long) q.getSingleResult()).intValue();
