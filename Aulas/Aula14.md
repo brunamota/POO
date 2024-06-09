@@ -33,13 +33,9 @@ public class telaCadastro extends javax.swing.JFrame {
             tfCodigo.setText(String.valueOf(c.getIdcadastro()));
             tfNome.setText(c.getNomeCliente());
         }
-    }
-```
-
-```Java
-private void btNovoActionPerformed(java.awt.event.ActionEvent evt) {                                       
-        tfCodigo.setText("");
-        tfNome.setText("");
+    private void btNovoActionPerformed(java.awt.event.ActionEvent evt) {                                       
+            tfCodigo.setText("");
+            tfNome.setText("");
     }                                      
 
     private void btSalvarActionPerformed(java.awt.event.ActionEvent evt) {                                         
