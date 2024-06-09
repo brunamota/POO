@@ -19,6 +19,9 @@ Passo a passo da aula:
 :white_check_mark: Criar uma Entity Class from DataBase' para fazer a ligação do banco com a aplicação (model)
 
 - Usar os pacotes para criação do driver (mysql-connector-java-8.0.11.jar e protobuf-java-2.6.0.jar)
+     - [mysql-connector-j-8.4.0.zip](https://github.com/user-attachments/files/15754422/mysql-connector-j-8.4.0.zip)
+     - [protobuf-java-2.4.1.zip](https://github.com/user-attachments/files/15754427/protobuf-java-2.4.1.zip)
+
 
 :white_check_mark: Criar um 'JPA Controller Classes from Entity Classes' para criar os comandos do banco em Java (DAO)
 
