@@ -14,22 +14,23 @@ Passo a passo da aula:
 
 :white_check_mark: [Instalar o WorkBench](https://dev.mysql.com/downloads/file/?id=528489)
 
+:white_check_mark: Criar um banco para o cadastro do cliente contendo idCadastro e nomeCadastro
+
 :white_check_mark: 
 
-
 ``` Java
+
 package dao;
 
 import java.io.Serializable;
 import java.util.List;
 import javax.persistence.EntityManager;
-    import javax.persistence.EntityManagerFactory;
+import javax.persistence.EntityManagerFactory;
 import javax.persistence.criteria.CriteriaQuery;
-import model.Clientes;
+import model.Cadastro;
 
-
-public class ClientesJpaController implements Serializable {
-     public ClientesJpaController(EntityManagerFactory emf) {
+public class CadastroJpaController implements Serializable {
+     public CadastroJpaController(EntityManagerFactory emf) {
         this.emf = emf;
     }
     private EntityManagerFactory emf = null;
@@ -38,54 +39,54 @@ public class ClientesJpaController implements Serializable {
         return emf.createEntityManager();
     }
 
-    public void create(Clientes Clientes) {
+    public void create(Cadastro cadastro) {
         EntityManager em = emf.createEntityManager();
         em.getTransaction().begin();
-        em.persist(Clientes);
+        em.persist(cadastro);
         em.getTransaction().commit();
         em.close();
     }
 
-    public void edit(Clientes Clientes) {
+    public void edit(Cadastro cadastro) {
         EntityManager em = emf.createEntityManager();
         em.getTransaction().begin();
-        em.merge(Clientes);
+        em.merge(cadastro);
         em.getTransaction().commit();
         em.close();
     }
 
-    public void remove(Clientes Clientes) {
+    public void remove(Cadastro cadastro) {
         EntityManager em = emf.createEntityManager();
         em.getTransaction().begin();
-        em.remove(em.merge(Clientes));
+        em.remove(em.merge(cadastro));
         em.getTransaction().commit();
         em.close();
     }
 
-    public Clientes find(Object id) {
+    public Cadastro find(Object id) {
         EntityManager em = emf.createEntityManager();
-        Clientes Clientes = em.find(Clientes.class, id);
+        Cadastro cadastro = em.find(Cadastro.class, id);
         em.close();
-        return Clientes;
+        return cadastro;
     }
 
-    public List<Clientes> findAll() {
+    public List<Cadastro> findAll() {
         EntityManager em = emf.createEntityManager();
         CriteriaQuery cq = em.getCriteriaBuilder().createQuery();
-        cq.select(cq.from(Clientes.class));
-        List<Clientes> result = em.createQuery(cq).getResultList();
+        cq.select(cq.from(Cadastro.class));
+        List<Cadastro> result = em.createQuery(cq).getResultList();
         em.close();
         return result;
     }
 
-    public List<Clientes> findRange(int[] range) {
+    public List<Cadastro> findRange(int[] range) {
         EntityManager em = emf.createEntityManager();
         CriteriaQuery cq = em.getCriteriaBuilder().createQuery();
-        cq.select(cq.from(Clientes.class));
+        cq.select(cq.from(Cadastro.class));
         javax.persistence.Query q = em.createQuery(cq);
         q.setMaxResults(range[1] - range[0] + 1);
         q.setFirstResult(range[0]);
-        List<Clientes> result = q.getResultList();
+        List<Cadastro> result = q.getResultList();
         em.close();
         return result;
     }
@@ -93,7 +94,7 @@ public class ClientesJpaController implements Serializable {
     public int count() {
         EntityManager em = emf.createEntityManager();
         CriteriaQuery cq = em.getCriteriaBuilder().createQuery();
-        javax.persistence.criteria.Root<Clientes> rt = cq.from(Clientes.class);
+        javax.persistence.criteria.Root<Cadastro> rt = cq.from(Cadastro.class);
         cq.select(em.getCriteriaBuilder().count(rt));
         javax.persistence.Query q = em.createQuery(cq);
         int count = ((Long) q.getSingleResult()).intValue();
