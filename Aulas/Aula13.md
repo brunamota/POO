@@ -1,12 +1,16 @@
-# Aula 13 - hora que filho chora e mãe não vê
+# Aula 13 - Interfaces Gráficas de gerenciamento de dados
 
-Não ta pronta essa, não copia
+Model-View-Controller é um padrão em design de software comumente usado para implementar interfaces de usuário, dados e lógica de controle. Ele enfatiza a separação entre a lógica de negócios e a exibição do software. Esta “separação de preocupações” proporciona uma melhor divisão do trabalho e uma melhor manutenção.
+
+As três partes do padrão de design de software MVC podem ser descritas da seguinte forma:
+
+1. Modelo: gerencia dados e lógica de negócios.
+2. Visualizar: Lida com layout e exibição.
+3. Controlador: direciona comandos para o modelo e visualiza peças.
 
 ![mvc-diagram](https://github.com/brunamota/POO/assets/66503956/8d4c78ed-52a3-464c-9149-15e73b37d500)
 
 ``` Java
-
-
 package dao;
 
 import java.io.Serializable;
