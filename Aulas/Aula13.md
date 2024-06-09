@@ -18,13 +18,13 @@ Passo a passo da aula:
 
 :white_check_mark: Criar uma Entity Class from DataBase' para fazer a ligação do banco com a aplicação (model)
 
-     - Usar os pacotes para criação do driver (mysql-connector-java-8.0.11.jar e protobuf-java-2.6.0.jar)
+- Usar os pacotes para criação do driver (mysql-connector-java-8.0.11.jar e protobuf-java-2.6.0.jar)
 
 :white_check_mark: Criar um 'JPA Controller Classes from Entity Classes' para criar os comandos do banco em Java (DAO)
 
-     - DAO: Organização Autônoma Descentralizada é uma entidade na qual todos os membros participam da tomada de decisões, pois não existe uma autoridade central. (controller)
+- DAO: Organização Autônoma Descentralizada é uma entidade na qual todos os membros participam da tomada de decisões, pois não existe uma autoridade central. (controller)
      
-     - Copiar esse código de baixo:
+- Copiar esse código de baixo:
      
 ``` Java
 package dao;
