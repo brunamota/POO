@@ -1,5 +1,6 @@
 ```Java
-CadastroJpaController daoCadastro;
+public class telaCadastro extends javax.swing.JFrame {
+    CadastroJpaController daoCadastro;
 
     public telaCadastro() {
         initComponents();
@@ -94,5 +95,5 @@ private void btNovoActionPerformed(java.awt.event.ActionEvent evt) {
     private void tabelaClientesKeyReleased(java.awt.event.KeyEvent evt) {                                           
         preencheDado();
     }
-
+}
 ```
