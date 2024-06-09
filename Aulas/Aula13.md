@@ -16,10 +16,12 @@ Passo a passo da aula:
 
 :white_check_mark: Criar um banco para o cadastro do cliente contendo idCadastro e nomeCadastro
 
-:white_check_mark: 
+:white_check_mark: Criar uma Entity Class from DataBase' para fazer a ligação do banco com a aplicação (model)
 
+:white_check_mark: Criar um 'JPA Controller Classes from Entity Classes' para criar os comandos do banco em Java (DAO)
+     - DAO: Organização Autônoma Descentralizada é uma entidade na qual todos os membros participam da tomada de decisões, pois não existe uma autoridade central. (controller)
+     - Copiar esse código de baixo:
 ``` Java
-
 package dao;
 
 import java.io.Serializable;
@@ -103,3 +105,6 @@ public class CadastroJpaController implements Serializable {
     }
 }
 ```
+
+:white_check_mark: Criar a tela de cadastro (view)
+![Captura de tela 2024-06-09 143637](https://github.com/brunamota/POO/assets/66503956/b09b9990-e070-4367-8d33-3e1543cc6844)
