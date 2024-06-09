@@ -11,6 +11,7 @@ As três partes do padrão de design de software MVC podem ser descritas da segu
 ![Sem Título-1](https://github.com/brunamota/POO/assets/66503956/11ae183d-3ec9-4b08-8163-a2039f82e0be)
 
 Passo a passo da aula:
+
 :white_check_mark: [Instalar o WorkBench](https://dev.mysql.com/downloads/file/?id=528489)
 
 :white_check_mark: 
