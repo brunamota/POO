@@ -8,7 +8,7 @@ As três partes do padrão de design de software MVC podem ser descritas da segu
 2. View: Lida com layout e exibição. Define como os dados do aplicativo devem ser exibidos
 3. Controller: Direciona comandos para o modelo e visualiza peças. Contém lógica que atualiza o modelo e/ou visualização em resposta à entrada dos usuários do aplicativo.
 
-![mvc-diagram](https://github.com/brunamota/POO/assets/66503956/8d4c78ed-52a3-464c-9149-15e73b37d500)
+![Sem Título-1](https://github.com/brunamota/POO/assets/66503956/201b7500-2d0a-473a-9227-1ec5b86b84a4)
 
 ``` Java
 package dao;
