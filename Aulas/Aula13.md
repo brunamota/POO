@@ -107,4 +107,7 @@ public class CadastroJpaController implements Serializable {
 ```
 
 :white_check_mark: Criar a tela de cadastro (view)
-![Captura de tela 2024-06-09 143637](https://github.com/brunamota/POO/assets/66503956/b09b9990-e070-4367-8d33-3e1543cc6844)
+
+![Captura de tela 2024-06-09 143851](https://github.com/brunamota/POO/assets/66503956/194d8d13-44d2-4de4-ae73-4d3c00c6b675)
+
+
