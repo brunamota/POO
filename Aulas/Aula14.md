@@ -1,3 +1,5 @@
+Código do View para um norteador, mas como está sendo criado com o GUI nem toda parte do código pode ser copiada diretamente para o código.
+
 ```Java
 public class telaCadastro extends javax.swing.JFrame {
     CadastroJpaController daoCadastro;
@@ -33,6 +35,8 @@ public class telaCadastro extends javax.swing.JFrame {
             tfCodigo.setText(String.valueOf(c.getIdcadastro()));
             tfNome.setText(c.getNomeCliente());
         }
+
+    //a partir daqui, esse métodos tem que ser criado juntos ao NetBeans
     private void btNovoActionPerformed(java.awt.event.ActionEvent evt) {                                       
             tfCodigo.setText("");
             tfNome.setText("");
