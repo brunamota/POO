@@ -10,6 +10,12 @@ As três partes do padrão de design de software MVC podem ser descritas da segu
 
 ![Sem Título-1](https://github.com/brunamota/POO/assets/66503956/11ae183d-3ec9-4b08-8163-a2039f82e0be)
 
+Passo a passo da aula:
+:white_check_mark: [Instalar o WorkBench](https://dev.mysql.com/downloads/file/?id=528489)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s0YoPLbox40?si=cXkh2O_jrqvpMQtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+:white_check_mark: 
+
 
 ``` Java
 package dao;
