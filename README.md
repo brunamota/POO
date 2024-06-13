@@ -17,7 +17,7 @@ Quinta - 7h30 às 9h10 - LEC 03
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Não haverá aula - 30/05/2024
 
-![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Entrega Trabalho 2 - 17/06/2024
+![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) Entrega Trabalho 2 - 20/06/2024
 
 ![iconGitDiamante](https://github.com/brunamota/POO/assets/66503956/34435c36-5365-4a70-b7b3-bb9fba8a2a74) SBCAs - 27/06/2024
 
