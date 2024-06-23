@@ -2,8 +2,8 @@
 
 Aplicação desenvolvida em sala para conhecer a classe Graphics e conseguir desenhar na tela.
 
-![Captura de tela 2024-06-23 201656](https://github.com/brunamota/POO/assets/66503956/678737f0-a03a-425d-8f44-69829563e2be)
-![Captura de tela 2024-06-23 201710](https://github.com/brunamota/POO/assets/66503956/75eac045-1faa-48bf-b1eb-f6761bbf263b)
+![Captura de tela 2024-06-23 202933](https://github.com/brunamota/POO/assets/66503956/5a5e7fb0-1114-4c45-8a01-e5041ea8a008)
+![Captura de tela 2024-06-23 202944](https://github.com/brunamota/POO/assets/66503956/0a09ab3d-54de-4815-b886-ea240d1a90a3)
 
 :white_check_mark: Criando o projeto Grafico1 com as classes:
   - Grafico1
