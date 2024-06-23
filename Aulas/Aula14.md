@@ -9,6 +9,7 @@
   - Gráfico1
   - Janela
   - Desenho
+    
 :white_check_mark: Explorando o componente JComponent
 :white_check_mark: Explorando o método paint de JComponent
 :white_check_mark: Conhecendo e usando a classe Graphics
