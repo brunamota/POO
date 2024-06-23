@@ -5,8 +5,8 @@ Aplicação desenvolvida em sala para conhecer a classe Graphics e conseguir des
 ![Captura de tela 2024-06-23 201656](https://github.com/brunamota/POO/assets/66503956/678737f0-a03a-425d-8f44-69829563e2be)
 ![Captura de tela 2024-06-23 201710](https://github.com/brunamota/POO/assets/66503956/75eac045-1faa-48bf-b1eb-f6761bbf263b)
 
-:white_check_mark: Criando o projeto Gráfico1 com as classes:
-  - Gráfico1
+:white_check_mark: Criando o projeto Grafico1 com as classes:
+  - Grafico1
   - Janela
   - Desenho
     
