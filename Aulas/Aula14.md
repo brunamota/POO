@@ -146,7 +146,7 @@ public class Janela extends JFrame implements ActionListener, MouseListener {
     @Override
     public void mouseClicked(MouseEvent e) {
         if(e.getButton() == MouseEvent.BUTTON3){
-            puMenu.show(this, 70, 70);
+            puMenu.show(this, e.getX(), e.getY());
         }
     }
 
