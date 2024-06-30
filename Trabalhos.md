@@ -8,4 +8,4 @@
 
   - Link para a entrega do 3º trabalho - [https://forms.gle/ekiA6BH56VCW5CzM7](https://forms.gle/8W1CndPD21pQArfa9)
 
-![iconGitLivro](https://github.com/brunamota/POO/assets/66503956/47fc92db-723f-4642-a3d0-08d270038bbb) [Trabalho 4 - Padrões de Projeto](https://github.com/brunamota/POO/files/15017628/Trabalho.4.-.POO.pdf)
+![iconGitLivro](https://github.com/brunamota/POO/assets/66503956/47fc92db-723f-4642-a3d0-08d270038bbb) [Trabalho 4 - Padrões de Projeto](https://github.com/user-attachments/files/16045775/Trabalho.4.-.POO.pdf)
