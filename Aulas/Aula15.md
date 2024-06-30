@@ -92,7 +92,9 @@ public class ExGraficoT2 {
     
 }
 ```
- 
+
+![Captura de tela 2024-06-30 195710](https://github.com/brunamota/POO/assets/66503956/dd4ef542-90fa-4266-b394-aff94da5baf0)
+
 :white_check_mark: Criando uma aplicação animada e interativa
   -  Criando os atributos Forma, Cor, Posição e Direção
   -  Criando um método para movimentação
