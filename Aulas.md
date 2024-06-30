@@ -28,7 +28,7 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 14 - Relação entre objetos e classes - Modulos Exemplo: uso do pacote gráfico Graphics na criação de gráficos](https://github.com/brunamota/POO/blob/main/Aulas/Aula14.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 15 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 15 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações](https://github.com/brunamota/POO/blob/main/Aulas/Aula15.md)
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 16 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de jogos
 
