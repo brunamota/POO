@@ -13,4 +13,4 @@ Desenvolvendo um jogo da velha utilizando orientação a objetos.
      - Logica do Jogo
      - Tabuleiro
      - Criar um pacoce chamado img
-      - [Imagens do X e do O](https://github.com/user-attachments/files/16121475/TicTacToe.zip)
+         - [Imagens do X e do O](https://github.com/user-attachments/files/16121475/TicTacToe.zip)
