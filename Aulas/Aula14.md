@@ -26,7 +26,7 @@ Aplicação desenvolvida em sala para conhecer a classe Graphics e conseguir des
 
 ## Codigo desenvolvido
 
-Clasee principal
+Classe principal
 
 ``` java
 
