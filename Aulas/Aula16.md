@@ -8,10 +8,10 @@ Desenvolvendo um jogo da velha utilizando orientação a objetos.
    - Criara as classes:
      - Computador
      - Humano
-     - Janela
      - Jogador
-     - Logica do Jogo
      - Tabuleiro
+     - Logica do Jogo
+     - Janela
      - Criar um pacoce chamado img
          - [Imagens do X e do O](https://github.com/user-attachments/files/16121475/TicTacToe.zip)
 
