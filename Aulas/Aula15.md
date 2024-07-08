@@ -9,7 +9,7 @@
   -  Conhecendo o método start (Thread().start())
   -  Conhecendo o método run
 
-- Classe Desenho
+Classe Desenho
 ``` Java
 package exgraficot2;
 
