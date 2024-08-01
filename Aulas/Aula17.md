@@ -140,4 +140,4 @@ public class ConcreteObserver implements Observer {
 }
 ```
 
-Esses são apenas alguns exemplos dos padrões de projeto mais comuns em Java. Existem muitos outros padrões, e é importante entender os problemas que cada padrão resolve e quando aplicá-los corretamente em seu projeto. Para conhecer cada um deles, acesse: (https://refactoring.guru/pt-br)
+Esses são apenas alguns exemplos dos padrões de projeto mais comuns em Java. Existem muitos outros padrões, e é importante entender os problemas que cada padrão resolve e quando aplicá-los corretamente em seu projeto. Para conhecer cada um deles, acesse: https://refactoring.guru/pt-br
