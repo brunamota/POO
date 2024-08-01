@@ -32,4 +32,5 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 16 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de jogos](https://github.com/brunamota/POO/blob/main/Aulas/Aula16.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) Aula 17 - Padrões de Projeto
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 17 - Padrões de Projeto](https://github.com/brunamota/POO/blob/main/Aulas/Aula17.md)
+
