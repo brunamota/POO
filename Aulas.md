@@ -12,7 +12,7 @@
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 6 - Herança: Generalização e Especialização – Exercício 5: Triângulos](https://github.com/brunamota/POO/blob/main/Aulas/Aula06.md)
 
-![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 07 - Composição e Agregação - Exercício 6: Cilindro](https://github.com/brunamota/POO/blob/main/Aulas/Aula07.md)
+![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 7 - Composição e Agregação - Exercício 6: Cilindro](https://github.com/brunamota/POO/blob/main/Aulas/Aula07.md)
 
 ![iconGitEspada](https://github.com/brunamota/POO/assets/66503956/84416920-6afb-43fb-b2a6-fdcc43741352) [Aula 8 - Modificadores de acesso, métodos e atributos estáticos - Exercício 7: Autoincremento](https://github.com/brunamota/POO/blob/main/Aulas/Aula08.md)
 
